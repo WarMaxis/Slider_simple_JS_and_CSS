@@ -26,3 +26,5 @@ Created by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)
 * [ ] refactor code
 * [ ] write tests
 * [ ] _more transition effects_
+* [ ] _documentation with code examples_
+* [ ] _compress images_
